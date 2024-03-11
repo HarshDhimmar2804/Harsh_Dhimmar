@@ -1,6 +1,8 @@
 <h1 align="left">Hi 👋, I'm Harsh</h1>
 <h3 align="left">A passionate frontend developer from India</h3>
 
+<img src="">
+
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshdhimmar2804&label=Profile%20views&color=0e75b6&style=flat" alt="harshdhimmar2804" /> </p>-->
 
 - 🌱 I’m currently learning **React , Node**
